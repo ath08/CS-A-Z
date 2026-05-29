@@ -1,7 +1,0 @@
-C:\Users\tatev.aslikyan\Documents\C# A-Z\AgeDetective\bin\Debug\AgeDetective.exe.config
-C:\Users\tatev.aslikyan\Documents\C# A-Z\AgeDetective\bin\Debug\AgeDetective.exe
-C:\Users\tatev.aslikyan\Documents\C# A-Z\AgeDetective\bin\Debug\AgeDetective.pdb
-C:\Users\tatev.aslikyan\Documents\C# A-Z\AgeDetective\obj\Debug\AgeDetective.csproj.AssemblyReference.cache
-C:\Users\tatev.aslikyan\Documents\C# A-Z\AgeDetective\obj\Debug\AgeDetective.csproj.CoreCompileInputs.cache
-C:\Users\tatev.aslikyan\Documents\C# A-Z\AgeDetective\obj\Debug\AgeDetective.exe
-C:\Users\tatev.aslikyan\Documents\C# A-Z\AgeDetective\obj\Debug\AgeDetective.pdb
